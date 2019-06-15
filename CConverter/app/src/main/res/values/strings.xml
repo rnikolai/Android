@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">CConverter</string>
+
+<string-array name="Currency">
+    <item>USD</item>
+    <item>CAD</item>
+    <item>EUR</item>
+</string-array>
+</resources>

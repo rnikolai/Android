@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">app3</string>
+
+    <string-array name="items">
+        <item>tomato</item>
+        <item>apple and salt</item>
+        <item>banana</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>$0.99</item>
+        <item>$0.80</item>
+        <item>$0.59</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Fresh tomato</item>
+        <item>Fresh apple</item>
+        <item>Ripe banana</item>
+    </string-array>
+
+
+</resources>
